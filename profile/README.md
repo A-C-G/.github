@@ -3,4 +3,4 @@
 </a>
 
 # [이 링크를 통해 서비스 이용 가능합니다](https://prod.hyunn.shop/)
-### Collaborator : [HelloZOOO](https://github.com/HelloZOOO/ACG_CLIENT)
+### HelloZOOO : [Linux Client Code](https://github.com/HelloZOOO/ACG_CLIENT)
