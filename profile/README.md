@@ -5,7 +5,7 @@
 # ACG : Auto Commit Git
 `자동 잔디 심기 서비스`
 
-## [이 링크를 통해 서비스 이용 가능합니다](https://prod.hyunn.shop/)
+## [이 링크를 통해 서비스 이용 가능합니다](https://prod.hyunn.shop/description)
 
 ### [HyunTae99](https://github.com/hyuntae99) : [Spring Server code](https://github.com/A-C-G/back-end)
 ### [Cybecho](https://github.com/Cybecho) : [Linux Client Code](https://github.com/HelloZOOO/ACG_CLIENT)
