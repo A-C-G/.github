@@ -6,7 +6,7 @@
 자동 잔디 심기 서비스입니다.<br>
 위의 로고를 클릭하면 서비스 이용이 가능합니다.
 
-[PPT자료](https://docs.google.com/presentation/d/1SwTtjPmRu_-K8BIRhXG298PkwFupW2K0/edit?usp=sharing&ouid=103204687067264269924&rtpof=true&sd=true)
+[PPT자료](https://docs.google.com/presentation/d/1flyaXPFnuoD5cUWhTEaGhT6bUHYBIoH7/edit?usp=sharing&ouid=103204687067264269924&rtpof=true&sd=true)
 
 <br>
 
